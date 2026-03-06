@@ -33,7 +33,7 @@ password-generator/ │ ├── password_generator.py └── README.md
 
 1. Clone the repository
 
-git clone https://github.com/your-username/password-generator.git cd
+git clone https://github.com/Fatinxd95/random-password-generator-in-python.git cd
 password-generator
 
 2. Run the script
@@ -52,7 +52,6 @@ No external libraries are required. The program only uses built-in
 modules:
 
 -   random
--   sys
 
 ⚠️ Error Handling
 
